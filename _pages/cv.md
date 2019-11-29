@@ -18,15 +18,15 @@ Education
 
 Industry experience
 ======
-* China International Capital Corporation Limited, Summer analyst, Beijing, P.R. China, Jun.2016 - Sept.2016
+* CICC, Summer analyst, Beijing, P.R. China, Jun.2016 - Sept.2016
 
 * CITIC Securities, Intern, Beijing, P.R. China, Jan.2017 - May.2017
   
 Miscellaneous
 ======
-* Language: Mandarin (native), English (fluent)
+* Language: Mandarin, English
 * Programming: C/C++, Python, R, Matlab, VBA, Stata, Latex, Microsoft Office
-* Interest: Literature, Chinese history, photography, basketball, table tennis, badminton
+* Interest: Literature, Chinese history, Photography, Basketball, Table tennis, Badminton, Floorball
 
 <!--
 Publications
