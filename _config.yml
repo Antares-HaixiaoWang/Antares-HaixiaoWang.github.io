@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #""
+title                    : "Antares"
 title_separator          : "-"
 name                     : &name "Haixiao(Antares) Wang"
 description              : &description "Probabilist, know a bit physics"
