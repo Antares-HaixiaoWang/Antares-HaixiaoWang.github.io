@@ -28,11 +28,12 @@ Miscellaneous
 * Programming: C/C++, Python, R, Matlab, VBA, Stata, Latex, Microsoft Office
 * Interest: Literature, Chinese history, photography, basketball, table tennis, badminton
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+<!--
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
@@ -49,3 +50,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
