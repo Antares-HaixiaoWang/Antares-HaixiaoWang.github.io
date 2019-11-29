@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal Experience"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
