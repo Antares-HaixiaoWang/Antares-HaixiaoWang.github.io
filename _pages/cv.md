@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Personal Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Peking University, Beijing, P.R. China, 2018
+* B.A. in Economics, Peking University, Beijing, P.R. China, 2018
+* Exchange Student, Stanford University, Palo Alto, CA, USA, 2017
+* M.S. in Statistics, UC San Diego, La Jolla, CA, USA, 2020 (expected)
 
-Work experience
+Industry experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* China International Capital Corporation Limited, Summer analyst, Beijing, P.R. China, Jun.2016 - Sept.2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* CITIC Securities, Intern, Beijing, P.R. China, Jan.2017 - May.2017
   
-Skills
+Miscellaneous
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Mandarin (native), English (fluent)
+* Programming: C/C++, Python, R, Matlab, VBA, Stata, Latex, Microsoft Office
+* Interest: Literature, Chinese history, photography, basketball, table tennis, badminton
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
