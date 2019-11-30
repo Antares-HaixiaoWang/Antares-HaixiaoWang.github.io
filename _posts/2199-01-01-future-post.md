@@ -13,3 +13,7 @@ This post will show up by default. To disable scheduling of future posts, edit `
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+This notes is about mathematical statistics.
+
+[Download paper here](https://antares-haixiaowang.github.io/files/MathematicalStatistics.pdf)
