@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Notes for Mathematical Statistics"
 collection: publications
 permalink: /publication/2019-12-03-notes-mathematical-statistics
 excerpt: 'This book is about Mathematical Statistics'
 date: 2019-12-03
-venue: 'Journal 1'
-paperurl: 'https://github.com/Antares-HaixiaoWang/MathNotes/blob/Initial-Documents/Math281/Math281.pdf'
-citation: 'Haixiao, Wang. (2019). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://github.com/Antares-HaixiaoWang/MathNotes/blob/Initial-Documents/MathematicalStatistics/MathematicalStatistics.pdf'
 ---
-This book is about Mathematical Statistics.
+This lecture notes is based on the handout of professor Ery Arias-Castro, who was teaching mathematical statistics in Winter and Spring quarter 2019 at UC San Diego, which is aimed at helping PhD students pass the qualifying exam in mathematical statis- tics. Meanwhile, I wrote down some supplementary materials for beginners, since I am new to Statistics.
 
-[Download paper here](https://github.com/Antares-HaixiaoWang/MathNotes/blob/Initial-Documents/Math281/Math281.pdf)
+I have checked this note several times when I was preparing for the qualifying exam. However, there are still some mistakes which I might not find yet. I hope that you will enjoy reading this note, as well as I also enjoyed writing this note.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://github.com/Antares-HaixiaoWang/MathNotes/blob/Initial-Documents/MathematicalStatistics/MathematicalStatistics.pdf)
