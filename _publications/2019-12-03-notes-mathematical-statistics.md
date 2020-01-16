@@ -2,7 +2,7 @@
 title: "Notes for Mathematical Statistics"
 collection: publications
 permalink: /publication/2019-12-03-notes-mathematical-statistics
-excerpt: 'This book is about Mathematical Statistics'
+excerpt: 'This lecture notes is based on the handouts of Math 281 Mathematical Statistics at UC San Diego, from Winter 2019 to Spring 2019.'
 date: 2019-12-03
 paperurl: 'https://github.com/Antares-HaixiaoWang/MathNotes/blob/Initial-Documents/MathematicalStatistics/MathematicalStatistics.pdf'
 ---
