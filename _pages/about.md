@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Haixiao(Antares) Wang, currently a second year Master student in Statistics at UCSD. I am interested in probability theory. I am working with professor Ioana Dumitriu now, topics relevant to random graphs, specifically, stochastic block model.
+I am Haixiao(Antares) Wang, currently a Master student in Applied Mathematics at UCSD. I am interested in probability theory, in particular, random matrix theory and random graphs. I am working with professor Ioana Dumitriu now, topics relevant to community detection and spectral clustering.
 
-I obtained my B.S. in Physics and B.A. in Economics from Peking University. While I finished several internships in financial industry during my undergraduate, I found that I am more interested in probability theory, so I decided to purse a PhD in Mathematics here.
+I obtained my B.S. in Physics and B.A. in Economics from Peking University. While I finished several internships in financial industry during my undergraduate, I found that I am more interested in probability theory, so I decided to purse a PhD in Mathematics in the future.
 
 Basketball is my favorite sport and I was a fan of Allen Iverson during my teenage. Now, Lakers Championship.
 

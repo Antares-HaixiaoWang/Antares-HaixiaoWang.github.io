@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Statistics, UC San Diego, La Jolla, CA, USA, 2020 (expected)
+* M.S. in Applied Mathematics, UC San Diego, La Jolla, CA, USA, 2020 (expected)
 * B.S. in Physics, Peking University, Beijing, P.R. China, 2018
 * B.A. in Economics, Peking University, Beijing, P.R. China, 2018
 * Exchange Student, Stanford University, Palo Alto, CA, USA, 2017
